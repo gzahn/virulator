@@ -1,5 +1,4 @@
 # virulator
-                                                                             
 
     Remove plant host reads
     Assemble contigs with Flye/Spades
